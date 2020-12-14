@@ -1,0 +1,72 @@
+body{
+ background-image: url(pt.jpg);
+ background-size: cover;
+}
+ .parent{
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  padding: 1%;
+  margin: 1% auto;
+  border: 5px solid #ddd;
+  box-shadow: 0px 6px 6px -6px black;
+  text-align: center;
+}
+.child{
+  text-align: center;
+  display: flex;
+  border-style: groove;
+  flex-wrap:wrap;
+  margin-top: 10%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin-left: 30%;
+  margin-right: 20%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px 5px #000;
+  flex-direction: column;
+  width: 40%;
+  height: 50%;
+  border: 1px solid #ddd;
+/*
+.child1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 20%;
+  border: 5px solid #ddd;
+  margin: 10%;
+  padding: 10%;
+}
+
+/*child2
+.child2 {
+  display: flex;
+  flex-direction: row;
+  border: 5px solid #ddd;
+  width: 20%;
+  flex-wrap: wrap;
+  text-align: right;
+  margin: 10%;
+  padding: 10%;
+} */
+/* .child {
+  display: flex;
+  flex-direction: row;
+  width: 40%;
+  padding: 17%;
+  margin-left: : 1% auto;
+  border: 1px solid #ddd;
+  box-shadow: 0px 6px 6px -6px #000;
+}
+.c1 {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin: 1%;
+  padding: 1%;
+  border: 1px solid #ddd;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+} */

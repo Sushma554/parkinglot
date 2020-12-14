@@ -1,0 +1,44 @@
+/* body{
+  background-image: url(https://uk-cms.parkindigo.com/wp-content/uploads/Park-Mark-Award.jpg);
+  background-size: cover;
+    /* background-size: cover; }*/
+    body{
+     background-image: url(adminimage1.jpg);
+     background-size: cover;
+   }
+
+
+h1
+{
+  text-align: center;
+}
+.parent{
+  display: flex;
+  border-style: groove;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin-top: 10%;
+  margin-left: 35%;
+  margin-right: 20%;
+  border-radius: 30px;
+  width: 30%;
+  height: 100%;
+}
+/* .container1{
+  width: 40%;
+} */
+.container2{
+  text-align: center;
+  width: 70%;
+  flex-direction: column;
+  margin-left: 20%;
+  height: 70%;
+
+}
+/* .image{
+  width: 50%;
+  padding-left: 20%;
+  padding-top: 5%;
+} */

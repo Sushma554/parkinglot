@@ -1,0 +1,56 @@
+body{
+ background-image: url(home.jpeg);
+ background-size: cover;
+}
+
+/* .container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: black;
+  color: white;
+  padding-left: 50px;
+  padding-right: 30px;
+}
+h1{
+  font-style:italic;
+}
+.button{
+
+  background:inherit;
+  cursor: pointer;
+  padding:20px 20px;
+  border-radius: 10%;
+  border-color: black;
+
+}
+.button{border-radius:50%;}
+.button{border-radius:50%;}
+.button{border-radius:50%;}
+.button{border-radius:50%;}
+.button{border-radius:50%;}
+.button{border-radius:50%;}
+
+.button{
+  color:#FF5733;
+}
+.button:hover{background:white;
+  color: white;
+}
+/* .centered{
+  display: flex;
+  margin:2%;
+  padding:2%;
+  padding-left: 50%;
+ text-align: center;
+} */
+.centered{
+  padding-left: 30%;
+  text-align: center;
+  pa
+}
